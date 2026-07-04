@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Website (Frontend Only)
 
 ## Project Description
@@ -80,3 +81,6 @@ src/
 - Dynamic User Interfaces
 
 This project demonstrates practical experience in building **real-world e-commerce user interfaces**, managing application state, and creating interactive frontend applications.
+=======
+# Project-1-E-Commerce-Website-Frontend-Only-
+>>>>>>> b98aa16af4658b53305582d18a0d9ed3ad9f1b2b
